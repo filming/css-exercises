@@ -1,0 +1,18 @@
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(130, 252, 130);
+    font-weight: bold;
+}
+
+.odd-numbered {
+    background-color: rgb(252, 156, 172);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.font-size-24 {
+    font-size: 24px;
+}
